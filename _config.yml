@@ -95,7 +95,7 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: mzlogin
+    owner: xiaoape
     repo: blog-comments
     oauth:
         client_id: 6da299130675f46805eb
