@@ -353,7 +353,7 @@ Markdown 支持行内式链接和引用式链接。
 **Markdown：**
 
     Android 里使用 `TextUtils` 类的 `isEmpty` 方法来判断字符串是否为空。
-
+    
     ```java
     if (TextUtils.isEmpty(text)) {
         return null;
