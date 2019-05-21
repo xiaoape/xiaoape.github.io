@@ -1,27 +1,16 @@
 - sitename: GitHub
-  name: mzlogin
-  url: https://github.com/mzlogin
+  name: xiaoape
+  url: https://github.com/xiaoape
 
 - sitename: 掘金
-  name: mzlogin
-  url: http://gold.xitu.io/user/570ddaeb2e958a005c63b2da
+  name: xiaoape
+  url: https://juejin.im/user/5c9ad8375188252d5255fd25
 
-- sitename: LinkedIn
-  name: mazhuang
-  url: https://www.linkedin.com/in/mazhuang
 
 - sitename: 博客
-  name: 码志
-  url: http://mazhuang.org
+  name: 小猿杂谈
+  url: https://xiaoape.github.io
 
 - sitename: 微博
-  name: mzlogin
-  url: http://weibo.com/mzlogin
-
-- sitename: 知乎
-  name: mzlogin
-  url: http://www.zhihu.com/people/mzlogin
-
-- sitename: 豆瓣
-  name: 壮哥不胖
-  url: http://www.douban.com/people/freedim
+  name: 码的是生活
+  url: https://weibo.com/6041676700/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1
