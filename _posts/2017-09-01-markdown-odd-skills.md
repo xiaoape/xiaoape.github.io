@@ -205,7 +205,7 @@ N 与图片高度有关。
 
 有时候维护一份比较长的文档，希望能够自动根据文档中的标题生成目录（Table of Contents），并且当标题有变化时自动更新目录，能减轻工作量，也不易出错。
 
-如果你使用 Vim 编辑器，那可以使用我维护的插件 [vim-markdown-toc](https://github.com/mzlogin/vim-markdown-toc) 来帮你完美地解决此事：
+如果你使用 Vim 编辑器，那可以使用插件 [vim-markdown-toc](https://github.com/mzlogin/vim-markdown-toc) 来帮你完美地解决此事：
 
 ![](https://raw.githubusercontent.com/mzlogin/vim-markdown-toc/master/screenshots/english.gif)
 

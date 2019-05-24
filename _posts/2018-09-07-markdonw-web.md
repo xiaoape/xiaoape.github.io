@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 静态页面和动态页面的区别
-categories: Markdown
+categories: web basic
 description: 静态页面和动态页面的区别
 keywords: Markdown, VSCode
 ---
